@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Wersja główna
+=======
+Wersja pierwsza
+>>>>>>> wersjaB
