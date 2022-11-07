@@ -1,0 +1,53 @@
+commit 0ae31c1505c9a1d800c455383aad99e9bddefcc4 (HEAD -> master)
+Author: Gibas <adziug2007@gmail.com>
+Date:   Mon Nov 7 13:55:40 2022 +0100
+
+    wersja alternatywna
+
+commit 68febb33e673693b3f39c910945fa563a43fe83a (wersjax)
+Author: Gibas <adziug2007@gmail.com>
+Date:   Mon Nov 7 13:49:00 2022 +0100
+
+    dodaj rewizję dodanie pliku compare.txt
+
+commit 55cae75ccf87368ff9bbfc013a3960c5dd634ad3
+Author: Gibas <adziug2007@gmail.com>
+Date:   Mon Nov 7 13:46:36 2022 +0100
+
+    wersjaB
+
+commit f7a35b9c646ec00460b1419c98622b43dfb26765
+Author: Gibas <adziug2007@gmail.com>
+Date:   Mon Nov 7 13:43:43 2022 +0100
+
+    punkt 10
+
+commit 444785b03a88bdf1360539d929994dbe62d733e5
+Author: Gibas <adziug2007@gmail.com>
+Date:   Mon Nov 7 13:42:32 2022 +0100
+
+    Punkt 9
+
+commit e1141de6bc649284f46d758b87b5867eccb74a96
+Author: Gibas <adziug2007@gmail.com>
+Date:   Mon Nov 7 13:40:07 2022 +0100
+
+    Punkt9
+
+commit 2f9faf10c3bcc7a3bf717a542aeb2c33a56de110
+Author: Gibas <adziug2007@gmail.com>
+Date:   Mon Nov 7 13:33:10 2022 +0100
+
+    Punkt 7
+
+commit c552fb0423f834b1dc7aca1603d8dc5fa212f88a
+Author: Gibas <adziug2007@gmail.com>
+Date:   Mon Nov 7 13:27:03 2022 +0100
+
+    Wykonaj pierwsze czynności
+
+commit b052651473b69484f3229fb8b50a3c62a3e7265f
+Author: Gibas <adziug2007@gmail.com>
+Date:   Mon Nov 7 13:24:45 2022 +0100
+
+    Rozpoczęcie projektu
